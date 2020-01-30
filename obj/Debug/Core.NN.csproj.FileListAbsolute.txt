@@ -1,8 +1,0 @@
-C:\Users\rfaber\source\repos\Core.NN\Core.NN\obj\Debug\Core.NN.csprojAssemblyReference.cache
-C:\Users\rfaber\source\repos\Core.NN\Core.NN\bin\Debug\Core.NN.dll
-C:\Users\rfaber\source\repos\Core.NN\Core.NN\bin\Debug\Core.NN.pdb
-C:\Users\rfaber\source\repos\Core.NN\Core.NN\bin\Debug\NetJSON.dll
-C:\Users\rfaber\source\repos\Core.NN\Core.NN\bin\Debug\NetJSON.xml
-C:\Users\rfaber\source\repos\Core.NN\Core.NN\obj\Debug\Core.NN.csproj.CopyComplete
-C:\Users\rfaber\source\repos\Core.NN\Core.NN\obj\Debug\Core.NN.dll
-C:\Users\rfaber\source\repos\Core.NN\Core.NN\obj\Debug\Core.NN.pdb
